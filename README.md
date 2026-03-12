@@ -19,6 +19,15 @@ AI automation tools, scripts, and intelligent workflow systems built by DeployLy
 ## Example Automation Script
 
 ---
+## Project Structure
+
+ ai-automation-tools
+│
+├── automation.py
+├── README.md
+└── .github/workflows/ci.yml
+
+---
 
 python automation.py
 
