@@ -29,6 +29,11 @@ AI automation tools, scripts, and intelligent workflow systems built by DeployLy
 
 ---
 
+<img width="1869" height="708" alt="image" src="https://github.com/user-attachments/assets/01cb9504-95a1-4497-955d-347107a5a92a" />
+
+
+---
+
 python automation.py
 
 
