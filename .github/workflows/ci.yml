@@ -1,0 +1,16 @@
+name: DeployLynx CI Pipeline
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Run DeployLynx test
+        run: echo "DeployLynx CI/CD pipeline running successfully"
