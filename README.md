@@ -99,3 +99,10 @@ How to create an **organization profile README** so the main page of :contentRef
 
 
 ## 📂 Project Structure
+
+---
+
+<img width="1381" height="504" alt="image" src="https://github.com/user-attachments/assets/e290b975-23fc-4794-9d62-1756fec44188" />
+
+---
+
