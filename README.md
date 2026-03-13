@@ -1,28 +1,3 @@
-![DeployLynx CI](https://github.com/deploylynx-tech/ai-automation-tools/actions/workflows/ci.yml/badge.svg)
-
-# 🤖 AI Automation Tools
-
-AI automation tools, scripts, and intelligent workflow systems built by **DeployLynx**.
-
----
-
-## 🚀 Features
-
-• AI workflow automation  
-• Task automation scripts  
-• Intelligent process automation  
-• DevOps automation tools  
-
----
-
-## ⚙️ Tech Stack
-
-- Python
-- Automation Scripts
-- DevOps
-- GitHub Actions
-
----
 
 ![DeployLynx CI](https://github.com/deploylynx-tech/ai-automation-tools/actions/workflows/ci.yml/badge.svg)
 
